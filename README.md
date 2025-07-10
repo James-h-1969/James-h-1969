@@ -9,7 +9,7 @@
 <body>
     <h1 align="center">Hi 👋, I'm James Hocking</h1>
     <h3 align="center">Mechatronic Engineer | Computer Scientist</h3>
-    <p align="left">I am currently a 3rd year student at the University of Sydney studying a double degree of Mechatronic Engineering (Space) and Computer Science. I am extremely passionate about coding, AI, and robotics. <br /><br /> I am currently working as a quantitative researcher and tech intern in the fintech industry in Sydney. This can be found on my resume website, which I am currently in the process of building.</p>
+    <p align="left">I am currently a 4th year student at the University of Sydney studying a double degree of Mechatronic Engineering with Space, and Computer Science. I am extremely passionate about coding and robotics - with a focus in space. <br /><br /> I am currently working as a Software Engineer in the fintech industry in Sydney. 
 
   ### Contact Information
 
